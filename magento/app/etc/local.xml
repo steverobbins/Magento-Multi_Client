@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <global>
+        <install>
+            <!-- Magento gets mad if it can't find an install date here, see Mage::isInstalled() -->
+            <date><![CDATA[Mon, 13 Apr 2015 20:50:29 +0000]]></date>
+        </install>
+    </global>
+</config>

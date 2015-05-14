@@ -1,0 +1,11 @@
+/magento/public/connect/package.xml
+/magento/public/downloader/.cache
+/magento/public/downloader/cache.cfg
+/magento/public/downloader/connect.cfg
+/magento/public/media
+/magento/public/robots.txt
+/magento/public/sitemap
+/magento/app/etc/multiclient/*/local.xml
+/magento/var
+
+.DS_*
