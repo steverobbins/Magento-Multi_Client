@@ -7,5 +7,6 @@
 /magento/public/sitemap
 /magento/app/etc/multiclient/*/local.xml
 /magento/var
+/vagrant/.vagrant
 
 .DS_*

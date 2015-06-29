@@ -3,9 +3,6 @@
 require_once __DIR__ . DIRECTORY_SEPARATOR . '..'
     . DIRECTORY_SEPARATOR . 'abstract.php';
 
-/**
- * Legacy Order Shell Script
- */
 abstract class Multi_Client_Shell_Abstract extends Mage_Shell_Abstract
 {
     /**

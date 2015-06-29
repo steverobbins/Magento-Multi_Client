@@ -15,7 +15,7 @@ require_once MAGENTO_ROOT . DIRECTORY_SEPARATOR . 'app' . DIRECTORY_SEPARATOR . 
 umask(0);
 
 // aws load balancers are dumb
-if (isset($_SERVER['HTTP_X_FORWARDED_PROTO']) 
+if (isset($_SERVER['HTTP_X_FORWARDED_PROTO'])
     && $_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https') {
     $_SERVER['HTTPS']       = 'on';
     $_SERVER['SERVER_PORT'] = 443;

@@ -1,8 +1,8 @@
 <?php
 
-final class MutliClient
+final class MultiClient
 {
-    const CONFIG_CLASS = 'Mutli_Client_Model_Mage_Core_Config';
+    const CONFIG_CLASS = 'Multi_Client_Model_Mage_Core_Config';
 
     /**
      * The etc dir for this CLIENT_CODE
