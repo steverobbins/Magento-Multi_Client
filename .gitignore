@@ -3,6 +3,7 @@
 /magento/public/downloader/cache.cfg
 /magento/public/downloader/connect.cfg
 /magento/public/media
+!/magento/public/media/_template
 /magento/public/robots.txt
 /magento/public/sitemap
 /magento/app/etc/multiclient/*/local.xml
