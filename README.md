@@ -12,6 +12,11 @@ Each client maintains their independance but shares a code base.
 This could be considered a Magento Go-esque approach to hosting Magento
 websites.
 
+# Installation
+
+Please see [the wiki](https://github.com/steverobbins/Magento-Multi_Client/wiki)
+for installation instructions.
+
 # Directory Structure
 
 Because of customized directory structure the entire Magento code base is
